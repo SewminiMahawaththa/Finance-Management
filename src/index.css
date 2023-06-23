@@ -1,0 +1,83 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+.custom-btn {
+  background-color:#a66f62;
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+  color: #ffffff;
+  padding: 10px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  
+}
+
+.custom-btn:hover {
+  box-shadow: 1px 3px 5px rgba(10, 10, 10, 10);
+}
+
+.content{
+  height: 100vh;
+}
+
+.register-page{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 90vh;
+}
+
+/* transection page */
+.filters{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 15px 20px;
+  box-shadow: 0 0 3px gray;
+}
+/* transection page */
+
+/* antd icons */
+
+.switch-icons {
+  border: 1px solid rgba(0, 0, 0, 0.677);
+  border-radius: 5px;
+  padding: 10px 15px;
+}
+
+.anticon svg {
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.active-icon {
+  color: black;
+}
+.inactive-icon {
+  color: gray;
+}
+
+.navbar{
+  color: #f8e5e5;
+}
+
+.total{
+  color:#a66f62;
+  font-size:xx-large;
+  font-weight: bold;
+}
+
+.textincome{
+  color: black;
+}
+
+.textexpense{
+  color:#a66f62
+}
