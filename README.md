@@ -1,21 +1,22 @@
 # Finance Management Application
 
 ## Overview
-The WebRTC Chat Application is a real-time communication platform developed using WebRTC (Web Real-Time Communication) technology. This application enables users to engage in seamless chat directly within their web browsers, without the need for external plugins or software installations. With a focus on simplicity and efficiency, the WebRTC Chat Application is designed for quick and hassle-free communication, making it an ideal solution for various collaborative and interactive scenarios.
+The Finance Management System is a web application developed using the MERN stack (MongoDB, Express.js, React, Node.js). This system is designed to help users manage their finances efficiently by providing features such as expense tracking, budgeting, and financial reporting.
 
 ## Features
-<b>User Authentication:</b> Secure user authentication system to control access to the system.<br>
-<b>Chatting with each other:</b> The user can log in the application and then they can see the online persons and they can send a request to that person and can chat with them.
+User Authentication: Secure user authentication and authorization system.
+Expense Tracking: Record and categorize expenses for better financial tracking.
+Reports: Generate and view financial reports for better insights.
+Dashboard: An interactive dashboard providing a quick overview of financial status.
 
 ## Technologies Used
-- WebRTC
-- NodeJs
-- JavaScript
-- HTML
-- CSS
+- Frontend: React.js
+- Backend: Node.js, Express.js
+- Database: MongoDB
 
 ## Tools
 - Visual Studio
+- GitHub
 
 
 
